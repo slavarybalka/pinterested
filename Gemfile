@@ -7,6 +7,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.3.1.0'
+gem 'devise', '~> 3.4.1'
 
 group :doc do
   gem 'sdoc', require: false
